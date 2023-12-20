@@ -1,7 +1,8 @@
 /env
+/__pycache__
 *.csv
 *.json
 *.png
 *.pdf
 *.xlsx
-__pycache__
+!images/**/*.png

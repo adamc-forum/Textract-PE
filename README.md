@@ -20,5 +20,7 @@ The code is expected to be run in the same directory as the amazon textract outp
 
 Try AWS Textract at [AWS Textract](https://aws.amazon.com/textract/) to better understand the Textract output format.
 
+The following is an example of a working folder structure:
 
+![Folder Structure](/images/file_structure.png)
 
