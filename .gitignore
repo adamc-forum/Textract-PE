@@ -3,4 +3,5 @@
 *.json
 *.png
 *.pdf
+*.xlsx
 __pycache__
